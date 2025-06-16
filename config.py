@@ -6,9 +6,9 @@ API_CONFIG = {
     # إعدادات theHarvester
     'theHarvester': {
         'api_keys': {
-            'shodan': '',      # أدخل مفتاح API الخاص بـ Shodan
-            'virustotal': '',  # أدخل مفتاح API الخاص بـ VirusTotal
-            'hunter': '',      # أدخل مفتاح API الخاص بـ Hunter.io
+            'shodan': '',      # IVYPa91tXBuOvKLJiRnlivqMQYEeSnLD
+            'virustotal': '',  # 61fc46ab837d29e3b5e643fe383c14c60cc0cf7595c8cc3739c357c731dd8ccd
+            'hunter': '',      # 8857e9619c00bc0fe53fd228ff3b5e969286552f
         },
         'timeout': 60,        # مهلة الانتظار بالثواني
         'limit': 100          # الحد الأقصى للنتائج
